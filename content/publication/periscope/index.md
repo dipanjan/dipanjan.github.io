@@ -46,5 +46,5 @@ publishDate: '2021-09-05T16:27:34.530989Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Annual Network and Distributed System Security Symposium (NDSS)*'
+publication: '*The Annual Network and Distributed System Security Symposium (NDSS)*'
 ---

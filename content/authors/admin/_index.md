@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucsb.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include blockchain, smart-contract, and fuzzing of low-level system software.
 
 # Interests to show in About widget
 interests:
