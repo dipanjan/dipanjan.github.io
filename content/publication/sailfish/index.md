@@ -18,10 +18,11 @@ lastmod: 2021-11-13T09:51:15-08:00
 featured: false
 draft: false
 
-url_pdf: 'https://arxiv.org/pdf/2104.08638.pdf'
-url_code: '#'
-url_slides: '#'
-url_video: '#'
+url_pdf: 'papers/sailfish-sp-2022.pdf'
+url_code: 'https://github.com/ucsb-seclab/sailfish'
+url_slides: ''
+url_teaser: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

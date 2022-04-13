@@ -1,31 +1,26 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary'
+title: Understanding Security Issues in the NFT Ecosystem
 subtitle: ''
 summary: ''
 authors:
-- Dokyung Song
-- Felicitas Hetzelt
 - admin
-- Chad Spensky
-- Yeoul Na
-- Stijn Volckaert
-- Giovanni Vigna
+- Priyanka Bose
+- Nicola Ruaro
 - Christopher Kruegel
-- Jean Pierre Seifert
-- Michael Franz
+- Giovanni Vigna
 tags: []
 categories: []
-date: '2019-01-01'
-lastmod: 2021-09-05T09:27:34-07:00
+date: '2022-01-01'
+lastmod: 2022-04-12T21:00:43-07:00
 featured: false
 draft: false
 
-url_pdf: 'papers/periscope-ndss-2019.pdf'
-url_code: 'https://github.com/securesystemslab/periscope'
-url_slides: 'slides/periscope-ndss-2019-slides.pdf'
-url_video: 'https://www.youtube.com/watch?v=GDf4IIEhl0Y'
+url_pdf: 'https://www.researchgate.net/publication/359861122_Understanding_Security_Issues_in_the_NFT_Ecosystem'
+url_code: ''
+url_slides: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-05T16:27:34.530989Z'
+publishDate: '2022-04-13T04:00:42.899426Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*The Annual Network and Distributed System Security Symposium (NDSS)*'
+publication: '*ACM Conference on Computer and Communications Security (CCS)*'
 ---
