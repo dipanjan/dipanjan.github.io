@@ -36,5 +36,5 @@ publishDate: '2021-09-05T16:27:35.249429Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Australasian Conference on Information Security and Privacy (ACISP)*'
+publication: '*Proceedings of the Australasian Conference on Information Security and Privacy (ACISP)*'
 ---

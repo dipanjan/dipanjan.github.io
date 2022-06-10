@@ -44,5 +44,5 @@ publishDate: '2021-09-05T16:27:34.882476Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*USENIX Security Symposium (USENIX)*'
+publication: '*Proceedings of the USENIX Security Symposium (USENIX)*'
 ---

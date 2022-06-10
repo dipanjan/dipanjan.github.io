@@ -1,26 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Understanding Security Issues in the NFT Ecosystem
+title: 'Hybrid Pruning: Towards Precise Pointer and Taint Analysis'
 subtitle: ''
 summary: ''
 authors:
-- admin
+- Dipanjan Das
 - Priyanka Bose
-- Nicola Ruaro
+- Aravind Machiry
+- Sebastiano Mariani
+- Yan Shoshitaishvili
 - Christopher Kruegel
 - Giovanni Vigna
 tags: []
 categories: []
 date: '2022-01-01'
-lastmod: 2022-04-12T21:00:43-07:00
+lastmod: 2022-06-10T15:57:46-07:00
 featured: false
 draft: false
 
-url_pdf: 'https://www.researchgate.net/publication/359861122_Understanding_Security_Issues_in_the_NFT_Ecosystem'
-url_code: ''
-url_slides: ''
-url_video: ''
+url_pdf: 'papers/hybrid-pruning-dimva-2022.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-13T04:00:42.899426Z'
+publishDate: '2022-06-10T22:57:46.637067Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Proceedings of the ACM Conference on Computer and Communications Security (CCS)*'
+publication: '*Proceedings of the Detection of Intrusions and Malware and Vulnerability Assessment (DIMVA)*'
 ---
