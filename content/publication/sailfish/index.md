@@ -20,8 +20,8 @@ draft: false
 
 url_pdf: 'papers/sailfish-sp-2022.pdf'
 url_code: 'https://github.com/ucsb-seclab/sailfish'
-url_slides: ''
-url_teaser: ''
+url_slides: 'slides/sailfish-sp-2022-slides.pdf'
+url_teaser: 'https://www.youtube.com/watch?v=f8YW9y6lEac'
 url_video: ''
 
 # Featured image
