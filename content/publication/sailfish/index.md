@@ -22,7 +22,7 @@ url_pdf: 'papers/sailfish-sp-2022.pdf'
 url_code: 'https://github.com/ucsb-seclab/sailfish'
 url_slides: 'slides/sailfish-sp-2022-slides.pdf'
 url_teaser: 'https://www.youtube.com/watch?v=f8YW9y6lEac'
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=L7rxQzr7_0E'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
