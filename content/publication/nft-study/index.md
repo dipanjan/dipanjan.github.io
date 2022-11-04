@@ -17,10 +17,10 @@ lastmod: 2022-04-12T21:00:43-07:00
 featured: false
 draft: false
 
-url_pdf: 'https://www.researchgate.net/publication/359861122_Understanding_Security_Issues_in_the_NFT_Ecosystem'
+url_pdf: 'papers/nft-study-ccs-2022.pdf'
 url_code: ''
-url_slides: ''
-url_video: ''
+url_slides: 'slides/nft-study-ccs-2022-slides.pdf'
+url_video: 'https://files.atypon.com/acm/a1fd0d5afa0a0b01c9eb2f74f95a9919'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
