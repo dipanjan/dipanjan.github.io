@@ -20,7 +20,7 @@ draft: false
 url_pdf: 'papers/nft-study-ccs-2022.pdf'
 url_code: ''
 url_slides: 'slides/nft-study-ccs-2022-slides.pdf'
-url_video: 'https://files.atypon.com/acm/a1fd0d5afa0a0b01c9eb2f74f95a9919'
+url_video: 'https://files.atypon.com/acm/d9d733fa834aaa8b17c116aed09df934'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
