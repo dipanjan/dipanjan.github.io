@@ -18,7 +18,7 @@ featured: false
 draft: false
 
 url_pdf: 'papers/nft-study-ccs-2022.pdf'
-url_code: ''
+url_code: 'https://github.com/ucsb-seclab/nft-security-study'
 url_slides: 'slides/nft-study-ccs-2022-slides.pdf'
 url_video: 'https://files.atypon.com/acm/d9d733fa834aaa8b17c116aed09df934'
 
