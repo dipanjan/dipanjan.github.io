@@ -20,6 +20,9 @@ lastmod: 2023-01-01T01:12:33+05:30
 featured: false
 draft: false
 
+url_pdf: 'papers/cbdroid-icse-2023.pdf'
+url_code: 'https://github.com/ucsb-seclab/columbus'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
